@@ -7,7 +7,7 @@ summary: >-
   management of replication slots and implications for scaling.
 enableTableOfContents: true
 isDraft: false
-updatedOn: '2026-03-10T17:45:28.548Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 This topic outlines information about logical replication specific to Neon, including important notices.

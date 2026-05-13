@@ -6,7 +6,7 @@ summary: >-
   including storage, syntax, and practical examples for filtering data based on
   truth values.
 enableTableOfContents: true
-updatedOn: '2026-02-06T22:07:32.818Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 In Postgres, the Boolean datatype is designed to store truth values. A Boolean column can hold one of three states: `true`, `false`, or `NULL` representing unknown or missing values.

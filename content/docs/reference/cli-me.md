@@ -5,7 +5,7 @@ summary: >-
   Covers the usage of the `me` command in the Neon CLI to display information
   about the current user, including login details and project limits.
 enableTableOfContents: true
-updatedOn: '2026-02-26T16:28:03.964Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 ## Before you begin

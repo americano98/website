@@ -4,7 +4,7 @@ subtitle: Learn best practices for building applications that gracefully handle 
 author: dhanush-reddy
 enableTableOfContents: true
 createdAt: '2025-11-13T00:00:00.000Z'
-updatedOn: '2025-11n-13T00:00:00.000Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 Building resilient applications is essential when working with managed database services, where brief connection drops though rare can occur. While this guide uses Neon as an example, these best practices and code examples apply to **any** managed database service, helping you handle interruptions gracefully and keep your application stable and responsive.

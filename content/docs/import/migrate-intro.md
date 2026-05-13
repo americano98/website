@@ -9,7 +9,7 @@ summary: >-
 redirectFrom:
   - /docs/import/import-intro
 enableTableOfContents: true
-updatedOn: '2026-03-30T12:00:00.000Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 This guide helps you choose the best migration method based on your database size, downtime tolerance, source database type, and technical requirements.

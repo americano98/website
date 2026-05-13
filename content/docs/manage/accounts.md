@@ -6,7 +6,7 @@ summary: >-
   information, changing your email and password, two-factor authentication, and
   switching login methods.
 enableTableOfContents: true
-updatedOn: '2026-03-02T20:53:06.220Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 Your **Neon account** is your personal identity for logging in, managing your profile, and authenticating actions across all organizations you belong to.
@@ -54,6 +54,8 @@ No surprises here: just enter your current password, then your new one (twice). 
 ## Two-factor authentication
 
 Protect your account with two-factor authentication (2FA). Once enabled, you'll enter a 6-digit code from your authenticator app each time you log in.
+
+If your organization admin requires 2FA for the organization, you must enroll in 2FA to continue accessing that organization.
 
 ### Enable 2FA
 

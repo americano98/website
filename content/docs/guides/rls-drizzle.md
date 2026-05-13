@@ -7,7 +7,7 @@ summary: >-
   to implement `crudPolicy`, use custom Postgres roles, and integrate RLS
   with the Data API and serverless driver.
 enableTableOfContents: true
-updatedOn: '2026-03-23T18:27:00.723Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 redirectFrom:
   - /docs/guides/neon-rls-authorize-drizzle
   - /docs/guides/neon-authorize-drizzle

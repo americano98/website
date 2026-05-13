@@ -5,7 +5,7 @@ summary: >-
   How to connect an Elixir application to a Neon Postgres database using
   Postgrex, including project setup and performing basic CRUD operations.
 enableTableOfContents: true
-updatedOn: '2026-02-15T20:51:54.150Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 <CopyPrompt src="/prompts/elixir-prompt.md" 
@@ -362,14 +362,6 @@ While this guide demonstrates how to connect to Neon using raw SQL queries, for 
 Explore the following resources to learn how to integrate ORMs with Neon:
 
 - [Connect an Elixir Ecto application to Neon](/docs/guides/elixir-ecto)
-
-## Source code
-
-You can find the source code for the application described in this guide on GitHub.
-
-<DetailIconCards>
-<a href="https://github.com/neondatabase/examples/tree/main/with_elixir_postgrex" description="Get started with Elixir and Neon using Postgrex" icon="github">Get started with Elixir and Neon using Postgrex</a>
-</DetailIconCards>
 
 ## Resources
 

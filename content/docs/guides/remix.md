@@ -6,7 +6,7 @@ summary: >-
   project, setting up a Remix project, and configuring connection settings
   securely.
 enableTableOfContents: true
-updatedOn: '2026-02-06T22:07:33.042Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 <Admonition type="note">
@@ -168,15 +168,5 @@ PostgreSQL 16.0 on x86_64-pc-linux-gnu, compiled by gcc (Debian 10.2.1-6) 10.2.1
 ```
 
 </Steps>
-
-## Source code
-
-You can find the source code for the application described in this guide on GitHub.
-
-<DetailIconCards>
-
-<a href="https://github.com/neondatabase/examples/tree/main/with-remix" description="Get started with Remix and Neon" icon="github">Get started with Remix and Neon</a>
-
-</DetailIconCards>
 
 <NeedHelp/>

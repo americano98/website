@@ -7,7 +7,7 @@ summary: >-
   database, including project creation, dependency installation, and enabling
   on-demand rendering for real-time queries.
 enableTableOfContents: true
-updatedOn: '2026-02-15T20:51:54.115Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 <CopyPrompt src="/prompts/astro-serverless-prompt.md" 
@@ -228,17 +228,5 @@ When you run `npm run dev` you can expect to see something like the following wh
 ```
 
 </Steps>
-
-## Source code
-
-You can find the source code for the applications described in this guide on GitHub.
-
-<DetailIconCards>
-
-<a href="https://github.com/neondatabase/examples/tree/main/with-astro" description="Get started with Astro and Neon" icon="github">Get started with Astro and Neon</a>
-
-<a href="https://github.com/neondatabase/examples/tree/main/with-astro-api-routes" description="Get started with Astro API Routes and Neon" icon="github">Get started with Astro API Routes and Neon</a>
-
-</DetailIconCards>
 
 <NeedHelp/>

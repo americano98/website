@@ -6,7 +6,7 @@ summary: >-
   including project creation, dependency installation, and configuration of
   database credentials.
 enableTableOfContents: true
-updatedOn: '2026-02-06T22:07:33.056Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 <CopyPrompt src="/prompts/sveltekit-prompt.md"
@@ -180,15 +180,5 @@ PostgreSQL 17.2 on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.
 ```
 
 </Steps>
-
-## Source code
-
-You can find the source code for the application described in this guide on GitHub.
-
-<DetailIconCards>
-
-<a href="https://github.com/neondatabase/examples/tree/main/with-sveltekit" description="Get started with Sveltekit and Neon" icon="github">Get started with Sveltekit and Neon</a>
-
-</DetailIconCards>
 
 <NeedHelp/>

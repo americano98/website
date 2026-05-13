@@ -7,7 +7,7 @@ summary: >-
   Postgres database, including project creation, database configuration, and
   implementing CRUD operations through REST endpoints.
 enableTableOfContents: true
-updatedOn: '2026-02-06T22:07:33.019Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 <CopyPrompt src="/prompts/micronaut-kotlin-prompt.md"
@@ -258,13 +258,6 @@ You are now ready to run your application.
 
 You have successfully connected a Micronaut Kotlin application to your Neon Postgres database!
 
-## Source code
-
-You can find the source code for the application described in this guide on GitHub.
-
-<DetailIconCards>
-<a href="https://github.com/neondatabase/examples/tree/main/with-micronaut-kotlin" description="Get started with Micronaut Kotlin and Neon" icon="github">Get started with Micronaut Kotlin and Neon</a>
-</DetailIconCards>
 </Steps>
 
 ## Resources

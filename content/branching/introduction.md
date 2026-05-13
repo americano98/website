@@ -1,7 +1,7 @@
 ---
 title: 'Traditional database workflows are broken'
 subtitle: 'The stack has evolved, databases haven’t. See why copying databases doesn’t scale and how database branching enables fast environments for modern teams'
-updatedOn: '2026-01-22T00:00:00.000Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 ## Traditional database workflows are broken

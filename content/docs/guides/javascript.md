@@ -7,7 +7,7 @@ summary: >-
   database using popular drivers like pg, Postgres.js, and the Neon serverless
   driver, including performing basic CRUD operations.
 enableTableOfContents: true
-updatedOn: '2026-02-15T20:51:54.166Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 <CopyPrompt src="/prompts/javascript-prompt.md" 
@@ -689,11 +689,7 @@ You can find the source code for the applications described in this guide on Git
 
 <DetailIconCards>
 
-<a href="https://github.com/neondatabase/examples/tree/main/with-node-postgres" description="Get started with Node.js and Neon using node-postgres (pg)" icon="github">Get started with node-postgres (pg)</a>
-
 <a href="https://github.com/neondatabase/examples/tree/main/with-neon-serverless" description="Get started with Node.js and the Neon Serverless Driver" icon="github">Get started with the Neon Serverless Driver</a>
-
-<a href="https://github.com/neondatabase/examples/tree/main/with-node-postgres-js" description="Get started with Node.js and Neon using postgres.js" icon="github">Get started with postgres.js</a>
 
 </DetailIconCards>
 

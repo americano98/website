@@ -7,7 +7,7 @@ summary: >-
   database on Heroku, including project setup and database connection
   configuration.
 enableTableOfContents: true
-updatedOn: '2026-02-06T22:07:32.983Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 [Heroku](https://heroku.com) is a popular platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud. It simplifies the deployment process, making it a favorite among developers for its ease of use and integration capabilities.
@@ -185,14 +185,6 @@ You've now successfully deployed a Node.js application on Heroku that connects t
 To remove your application from Heroku, select the app from your [Heroku dashboard](https://dashboard.heroku.com/apps). Navigate to the `Settings` tab and scroll down to the end to find the "Delete App" option.
 
 To delete your Neon project, follow the steps outlined in the Neon documentation under [Delete a project](/docs/manage/projects#delete-a-project).
-
-## Source code
-
-You can find the source code for the application described in this guide on GitHub.
-
-<DetailIconCards>
-<a href="https://github.com/neondatabase/examples/tree/main/deploy-with-heroku" description="Deploying a Node application with a Neon Postgres database on Heroku" icon="github">Use Neon with Heroku</a>
-</DetailIconCards>
 
 ## Resources
 

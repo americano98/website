@@ -1,5 +1,5 @@
 ---
-updatedOn: '2026-04-03T12:00:00.000Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 <Admonition type="warning" title="Deprecation notice: GET /consumption_history/account">

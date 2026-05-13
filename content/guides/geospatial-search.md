@@ -4,7 +4,7 @@ subtitle: A step-by-step guide describing how to use PostGIS for geospatial sear
 author: vkarpov15
 enableTableOfContents: true
 createdAt: '2025-02-16T13:24:36.612Z'
-updatedOn: '2025-02-16T13:24:36.612Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 Geospatial queries enable you to perform searches on geographical data stored in Postgres.

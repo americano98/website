@@ -8,7 +8,7 @@ enableTableOfContents: true
 redirectFrom:
   - /docs/quickstart/node
   - /docs/integrations/node
-updatedOn: '2026-02-06T22:07:33.028Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 <CopyPrompt src="/prompts/javascript-prompt.md" 
@@ -261,14 +261,6 @@ async function getPgVersion() {
 
 getPgVersion();
 ```
-
-## Source code
-
-You can find the source code for the application described in this guide on GitHub.
-
-<DetailIconCards>
-<a href="https://github.com/neondatabase/examples/tree/main/with-nodejs" description="Get started with Node.js and Neon" icon="github">Get started with Node.js and Neon</a>
-</DetailIconCards>
 
 ## Community resources
 

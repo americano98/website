@@ -6,7 +6,7 @@ summary: >-
   including project creation, credential storage, and configuration of database
   connections using Ecto.
 enableTableOfContents: true
-updatedOn: '2026-02-06T22:07:33.031Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 <CopyPrompt src="/prompts/phoenix-prompt.md"
@@ -146,15 +146,5 @@ mix phx.server
 ```
 
 </Steps>
-
-## Source code
-
-You can find the source code for the application described in this guide on GitHub.
-
-<DetailIconCards>
-
-<a href="https://github.com/neondatabase/examples/tree/main/with_phoenix" description="Get started with Phoenix and Neon" icon="github">Get started with Phoenix and Neon</a>
-
-</DetailIconCards>
 
 <NeedHelp/>

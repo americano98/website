@@ -4,7 +4,7 @@ subtitle: Use SST to provision Neon resources and build a serverless API with a 
 author: dhanush-reddy
 enableTableOfContents: true
 createdAt: '2025-10-10T00:00:00.000Z'
-updatedOn: '2025-10-10T00:00:00.000Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 [SST](https://sst.dev/) is an open-source framework that simplifies building full-stack applications on your own infrastructure. By integrating Neon with SST, you can automate, version-control, and streamline your database provisioning workflows alongside your serverless applications.

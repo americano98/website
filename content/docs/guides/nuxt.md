@@ -6,7 +6,7 @@ summary: >-
   Neon, including project creation, dependency installation, and configuration
   of connection settings.
 enableTableOfContents: true
-updatedOn: '2026-02-06T22:07:33.028Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 <CopyPrompt src="/prompts/nuxt-neon-prompt.md"
@@ -103,15 +103,5 @@ PostgreSQL 16.0 on x86_64-pc-linux-gnu, compiled by gcc (Debian 10.2.1-6) 10.2.1
 ```
 
 </Steps>
-
-## Source code
-
-You can find the source code for the applications described in this guide on GitHub.
-
-<DetailIconCards>
-
-<a href="https://github.com/neondatabase/examples/tree/main/with-nuxt" description="Get started with Nuxt and Neon" icon="github">Get started with Nuxt and Neon</a>
-
-</DetailIconCards>
 
 <NeedHelp/>

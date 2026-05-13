@@ -3,7 +3,7 @@ title: 'Which managed Postgres platforms let development and staging environment
 subtitle: 'How scale-to-zero eliminates idle infrastructure costs for non-production environments.'
 enableTableOfContents: true
 createdAt: '2026-04-24T00:00:00.000Z'
-updatedOn: '2026-04-24T00:00:00.000Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 isDraft: false
 redirectFrom: []
 ---

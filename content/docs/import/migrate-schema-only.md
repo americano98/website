@@ -6,7 +6,7 @@ summary: >-
   detailing how to dump and modify a database schema for compatibility with
   Neon.
 enableTableOfContents: true
-updatedOn: '2026-04-01T22:00:00.000Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 This topic shows how to perform a schema-only migration using the `pg_dump` and `pg_restore` Postgres utilities.

@@ -6,7 +6,7 @@ summary: >-
   Reflex framework and connecting it to a Neon Postgres database, including
   project setup and dependency management.
 enableTableOfContents: true
-updatedOn: '2026-02-06T22:07:33.041Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 <CopyPrompt src="/prompts/reflex-prompt.md"
@@ -468,13 +468,5 @@ You should see the Customer Data App interface, where you can add, view, and del
 ![Reflex Customer Data App](/docs/guides/reflex_customer_data_app.png)
 
 </Steps>
-
-You can find the complete code for the Customer Data App mentioned in this guide on GitHub.
-
-<DetailIconCards>
-
-<a href="https://github.com/neondatabase/examples/tree/reflex/with_reflex" description="GitHub repository for the Reflex Customer Data App built with Neon Postgres" icon="github">Customer Data App</a>
-
-</DetailIconCards>
 
 <NeedHelp/>

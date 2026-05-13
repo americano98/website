@@ -2,7 +2,7 @@
 author: rishi-raj-jain
 enableTableOfContents: true
 createdAt: '2024-12-16T00:00:00.000Z'
-updatedOn: '2024-12-16T00:00:00.000Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 title: Drizzle with Local and Serverless Postgres
 subtitle: A step-by-step guide to configure Drizzle ORM for local and serverless Postgres.
 ---

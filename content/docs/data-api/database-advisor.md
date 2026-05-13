@@ -2,7 +2,7 @@
 title: Data API Advisors
 subtitle: Identify security and performance issues in your API-exposed database
 enableTableOfContents: true
-updatedOn: '2026-02-25T20:43:56.199Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 The Data API Advisors analyze your database schema and configuration to detect security and performance issues for tables and objects exposed by the [Data API](/docs/data-api/overview) feature. They run a set of checks against your database and report issues with severity levels and recommended fixes.

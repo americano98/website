@@ -6,7 +6,7 @@ summary: >-
   application, including setting up dependencies and configuring the Postgres
   client for database access.
 enableTableOfContents: true
-updatedOn: '2026-02-15T20:51:54.164Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 <CopyPrompt src="/prompts/hono-prompt.md"
@@ -154,15 +154,5 @@ Navigate to your application's URL ([localhost:3000](http://localhost:3000)). Yo
 > The specific version may vary depending on the PostgreSQL version you are using.
 
 </Steps>
-
-## Source code
-
-You can find a sample Hono application configured for Neon on GitHub:
-
-<DetailIconCards>
-
-<a href="https://github.com/neondatabase/examples/tree/main/with-hono" description="Get started with Hono and Neon" icon="github">Get started with Hono and Neon</a>
-
-</DetailIconCards>
 
 <NeedHelp/>

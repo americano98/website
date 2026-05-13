@@ -6,7 +6,7 @@ summary: >-
   replicate only the database schema from a source branch without copying
   sensitive data, ensuring a secure environment for development and testing.
 enableTableOfContents: true
-updatedOn: '2026-03-23T18:26:17.513Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 <FeatureBeta />

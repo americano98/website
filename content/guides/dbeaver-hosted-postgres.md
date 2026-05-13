@@ -4,7 +4,7 @@ subtitle: A comprehensive guide on how to manage your Postgres database using DB
 author: rishi-raj-jain
 enableTableOfContents: true
 createdAt: '2024-12-21T00:00:00.000Z'
-updatedOn: '2024-12-21T00:00:00.000Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 DBeaver is a versatile database management tool that allows you to interact with a wide range of databases, including PostgreSQL. This guide will walk you through the steps to set up and use DBeaver with a hosted Postgres database, enabling you to perform various database operations efficiently.

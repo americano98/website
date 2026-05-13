@@ -4,7 +4,7 @@ subtitle: Learn how to create a semantic search system using AI embeddings, Neon
 author: bobbyiliev
 enableTableOfContents: true
 createdAt: '2025-05-17T00:00:00.000Z'
-updatedOn: '2025-05-17T00:00:00.000Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 Traditional text search relies on exact keyword matches, which often misses the semantic meaning behind queries.

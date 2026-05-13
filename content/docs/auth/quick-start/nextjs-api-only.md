@@ -6,7 +6,7 @@ summary: >-
   enabling authentication, installing the Neon SDK, and setting up environment
   variables.
 enableTableOfContents: true
-updatedOn: '2026-03-23T15:16:28.132Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 layout: wide
 redirectFrom:
   - /docs/auth/quick-start/nextjs
@@ -135,6 +135,8 @@ export const { GET, POST } = auth.handler();
 <TwoColumnLayout.Block>
 
 The middleware ensures users are authenticated before accessing protected routes. Create `proxy.ts` file in your project root:
+
+<NextjsProxyNote/>
 
 </TwoColumnLayout.Block>
 <TwoColumnLayout.Block>

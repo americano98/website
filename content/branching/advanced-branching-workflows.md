@@ -1,7 +1,7 @@
 ---
 title: 'Promote from dev to prod without conflict'
 subtitle: 'Build a snapshot-based promotion workflow for Postgres: replace production with a known-good dev version using database branches, snapshots, and instant restores'
-updatedOn: '2026-01-22T00:00:00.000Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 ## Snapshot-based promotion (dev → prod)

@@ -6,7 +6,7 @@ summary: >-
   deletion, and management of database branches within CI/CD workflows,
   including authentication and configuration steps.
 enableTableOfContents: true
-updatedOn: '2026-02-06T22:07:32.926Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 Neon provides a set of GitHub Actions to automate the creation, deletion, and management of database branches in your Neon projects.

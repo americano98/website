@@ -1,5 +1,5 @@
 ---
-updatedOn: '2025-09-05T14:21:44.232Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 <Admonition type="info" title="Neon RLS is now part of the Data API">

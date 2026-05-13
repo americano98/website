@@ -4,7 +4,7 @@ subtitle: Learn how to create a robust, secure CRUD API using Laravel and Larave
 author: bobbyiliev
 enableTableOfContents: true
 createdAt: '2024-07-01T00:00:00.000Z'
-updatedOn: '2024-07-01T00:00:00.000Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 Laravel is a powerful PHP framework that allows developers to easily build web applications and APIs.

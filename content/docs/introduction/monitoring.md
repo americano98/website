@@ -8,7 +8,7 @@ summary: >-
 enableTableOfContents: false
 redirectFrom:
   - /docs/introduction/monitor-external-tools
-updatedOn: '2026-02-06T22:07:33.096Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 To find out what's going on with your Neon projects and databases, Neon offers several ways to track metrics and monitor usage.

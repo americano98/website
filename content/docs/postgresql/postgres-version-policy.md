@@ -5,7 +5,7 @@ summary: >-
   major and minor release schedules, end-of-life timelines, and version
   numbering conventions.
 enableTableOfContents: true
-updatedOn: '2026-02-06T22:07:33.126Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 This topic outlines [Neon's Postgres Version Support Policy](#neon-version-support-policy).

@@ -6,7 +6,7 @@ summary: >-
   RedwoodSDK application, including setting up dependencies and storing
   connection credentials.
 enableTableOfContents: true
-updatedOn: '2026-02-15T20:51:54.192Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 <CopyPrompt src="/prompts/redwood-sdk-prompt.md"
@@ -126,16 +126,6 @@ PostgreSQL 17.5 (6bc9ef8) on aarch64-unknown-linux-gnu, compiled by gcc (Debian 
 > The specific version may vary depending on the PostgreSQL version of your Neon project.
 
 </Steps>
-
-## Source code
-
-You can find a sample RedwoodSDK application configured for Neon on GitHub:
-
-<DetailIconCards>
-
-<a href="https://github.com/neondatabase/examples/tree/main/with-redwoodsdk" description="Get started with RedwoodSDK and Neon" icon="github">Get started with RedwoodSDK and Neon</a>
-
-</DetailIconCards>
 
 ## Resources
 

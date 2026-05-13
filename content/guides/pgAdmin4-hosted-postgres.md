@@ -4,7 +4,7 @@ subtitle: A comprehensive guide on how to manage your Postgres database using pg
 author: rishi-raj-jain
 enableTableOfContents: true
 createdAt: '2024-11-29T00:00:00.000Z'
-updatedOn: '2024-11-29T00:00:00.000Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 pgAdmin4 is a powerful web-based administration tool for managing PostgreSQL databases. This guide will walk you through the steps to set up and use pgAdmin4 with a hosted Postgres database, enabling you to perform various database operations efficiently.

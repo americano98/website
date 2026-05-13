@@ -4,7 +4,7 @@ subtitle: Learn how to create a collaborative task management system using Larav
 author: bobbyiliev
 enableTableOfContents: true
 createdAt: '2024-08-17T00:00:00.000Z'
-updatedOn: '2024-08-17T00:00:00.000Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 Real-time features can significantly improve user experience in web applications. They allow users to see updates immediately without refreshing the page. In this guide, we'll demonstrate how to add real-time functionality to a Laravel application using Neon Postgres and WebSockets.

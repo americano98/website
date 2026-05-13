@@ -6,7 +6,7 @@ summary: >-
   including project creation, dependency installation, and configuration of
   connection settings for secure server-side requests.
 enableTableOfContents: true
-updatedOn: '2026-02-06T22:07:33.053Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 <CopyPrompt src="/prompts/solidstart-prompt.md"
@@ -205,15 +205,5 @@ PostgreSQL 16.0 on x86_64-pc-linux-gnu, compiled by gcc (Debian 10.2.1-6) 10.2.1
 ```
 
 </Steps>
-
-## Source code
-
-You can find the source code for the application described in this guide on GitHub.
-
-<DetailIconCards>
-
-<a href="https://github.com/neondatabase/examples/tree/main/with-solid-start" description="Get started with SolidStart and Neon" icon="github">Get started with SolidStart and Neon</a>
-
-</DetailIconCards>
 
 <NeedHelp/>

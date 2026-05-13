@@ -7,7 +7,7 @@ summary: >-
   between timestamps, enabling the determination of ages, durations, and time
   intervals in various applications.
 enableTableOfContents: true
-updatedOn: '2026-02-06T22:07:32.852Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 The Postgres `age()` function calculates the difference between two timestamps or the difference between a timestamp and the current date and time.

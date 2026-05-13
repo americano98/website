@@ -4,7 +4,7 @@ subtitle: Learn how to manage database schema changes in a Spring Boot applicati
 author: bobbyiliev
 enableTableOfContents: true
 createdAt: '2024-09-07T00:00:00.000Z'
-updatedOn: '2024-09-07T00:00:00.000Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 Database schema management is an essential part of every application development and maintenance process.

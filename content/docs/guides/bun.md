@@ -6,7 +6,7 @@ summary: >-
   application, including examples for using Bun's SQL client and the Neon
   serverless driver.
 enableTableOfContents: true
-updatedOn: '2026-02-06T22:07:32.933Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 This guide describes how to create a Neon project and connect to it from a Bun application. Examples are provided for using [Bun's built-in SQL client](https://bun.sh/docs/api/sql) and the [@neondatabase/serverless](/docs/serverless/serverless-driver) driver. Use the client you prefer.
@@ -109,14 +109,6 @@ $ bun run index.ts
 ```
 
 </Steps>
-
-## Source code
-
-You can find the source code for the application described in this guide on GitHub.
-
-<DetailIconCards>
-<a href="https://github.com/neondatabase/examples/tree/main/with-bun" description="Get started with Bun and Neon" icon="github">Get started with Bun and Neon</a>
-</DetailIconCards>
 
 ## References
 

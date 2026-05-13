@@ -4,7 +4,7 @@ subtitle: Learn how to implement and utilize Laravel's event system with Neon
 author: bobbyiliev
 enableTableOfContents: true
 createdAt: '2024-06-30T00:00:00.000Z'
-updatedOn: '2024-06-30T00:00:00.000Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 Laravel's event system provides a simple observer implementation, allowing you to subscribe and listen for various events that occur in your application.

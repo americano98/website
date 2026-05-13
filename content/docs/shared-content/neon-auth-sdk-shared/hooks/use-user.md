@@ -1,5 +1,5 @@
 ---
-updatedOn: '2025-07-23T17:00:18.144Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 This is a reference for the `useUser` hook in the {sdkName} SDK.

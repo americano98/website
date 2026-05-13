@@ -6,7 +6,7 @@ summary: >-
   how to edit files on GitHub, submit pull requests, and use templates for
   creating new guides.
 enableTableOfContents: true
-updatedOn: '2026-02-15T20:51:54.064Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 This page covers everything you need to contribute to the Neon documentation, whether you're fixing a typo or writing a full guide.

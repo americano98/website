@@ -3,7 +3,7 @@ title: 'How to automatically create a separate Postgres database for each pull r
 subtitle: 'Provision isolated databases per pull request with database branching.'
 enableTableOfContents: true
 createdAt: '2026-04-24T00:00:00.000Z'
-updatedOn: '2026-04-24T00:00:00.000Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 isDraft: false
 redirectFrom: []
 ---

@@ -4,7 +4,7 @@ subtitle: Learn how to scale Django applications with Neon Postgres Read Replica
 author: dhanush-reddy
 enableTableOfContents: true
 createdAt: '2024-10-20T00:00:00.000Z'
-updatedOn: '2024-10-20T00:00:00.000Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 [Neon read replicas](/docs/introduction/read-replicas) are independent read-only compute instances that can significantly enhance database performance and scalability. By distributing read operations across these replicas, you can reduce latency and improve overall system responsiveness, especially for read-heavy applications. A standout feature of Neon is that adding a read replica doesn't require extra storage. This makes it a cost-effective way to scale your database, suitable for businesses of all sizes.

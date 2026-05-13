@@ -8,7 +8,7 @@ summary: >-
 enableTableOfContents: true
 redirectFrom:
   - /docs/introduction/billing
-updatedOn: '2026-03-06T00:10:04.324Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 You can monitor usage and costs in the Neon Console or programmatically with the Neon API. For what each metric means and how it maps to your invoice, see [Usage metrics](/docs/introduction/plans#usage-metrics) and [Invoice metrics](/docs/introduction/plans#invoice-metrics) on the Plans page.

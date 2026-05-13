@@ -6,7 +6,7 @@ summary: >-
   specified decimal places or to the nearest integer, with examples for
   practical applications in data analysis and financial calculations.
 enableTableOfContents: true
-updatedOn: '2026-02-06T22:07:32.879Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 The Postgres `round()` function rounds numeric values to a specified number of decimal places or the nearest integer.

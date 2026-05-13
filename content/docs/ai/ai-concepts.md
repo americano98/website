@@ -6,7 +6,7 @@ summary: >-
   applications, detailing how to transform unstructured data into structured
   formats and measure text similarity through vector distance calculations.
 enableTableOfContents: true
-updatedOn: '2026-02-15T20:51:54.030Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 Embeddings are an essential component in building AI applications. This topic describes embeddings and how they are used, generated, and stored in Postgres.

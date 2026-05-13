@@ -4,7 +4,7 @@ subtitle: Learn how to build a scalable multi-tenant application using Laravel a
 author: bobbyiliev
 enableTableOfContents: true
 createdAt: '2024-06-30T00:00:00.000Z'
-updatedOn: '2024-06-30T00:00:00.000Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 Multi-tenancy is a software architecture where a single instance of an application serves multiple tenants or clients.

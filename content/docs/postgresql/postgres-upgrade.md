@@ -6,7 +6,7 @@ summary: >-
   steps for creating a new project with the desired version and considerations
   for compatibility and performance testing.
 enableTableOfContents: true
-updatedOn: '2026-04-01T22:00:00.000Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 This topic describes how to upgrade your Neon project from one **major** Postgres version to a newer one.

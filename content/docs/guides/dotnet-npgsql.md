@@ -6,7 +6,7 @@ summary: >-
   Npgsql library, including steps for creating a Neon project and performing
   CRUD operations.
 enableTableOfContents: true
-updatedOn: '2026-02-15T20:51:54.148Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 <CopyPrompt src="/prompts/dotnet-prompt.md" 
@@ -439,14 +439,6 @@ While this guide demonstrates how to connect to Neon using raw SQL queries, for 
 Explore the following resources to learn how to integrate ORMs with Neon:
 
 - [Connect an Entity Framework application to Neon](/docs/guides/dotnet-entity-framework)
-
-## Source code
-
-You can find the source code for the application described in this guide on GitHub.
-
-<DetailIconCards>
-<a href="https://github.com/neondatabase/examples/tree/main/with-dotnet-npgsql/NeonLibraryExample" description="Get started with .NET (C#) and Neon" icon="github">Get started with .NET (C#) and Neon</a>
-</DetailIconCards>
 
 ## Resources
 

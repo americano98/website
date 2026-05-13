@@ -4,7 +4,7 @@ subtitle: Learn how to create AI powered chatbot using Azure AI Studio with Neon
 author: bobbyiliev
 enableTableOfContents: true
 createdAt: '2024-11-24T00:00:00.000Z'
-updatedOn: '2024-11-24T00:00:00.000Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 In this guide, we'll walk through creating an AI-powered chatbot from scratch. We will be using Azure AI Studio, Neon Postgres as the backend database, React for the frontend interface and Express for the backend API.

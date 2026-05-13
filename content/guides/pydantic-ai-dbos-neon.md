@@ -4,7 +4,7 @@ subtitle: 'Learn how to build resilient, fault-tolerant AI agents that automatic
 author: dhanush-reddy
 enableTableOfContents: true
 createdAt: '2026-04-22T00:00:00.000Z'
-updatedOn: '2026-04-22T00:00:00.000Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 AI agents are evolving beyond simple chat interfaces. Today’s systems can research topics, orchestrate APIs, and coordinate multi‑step workflows that resemble full applications rather than single prompts. This shift opens the door to agents that handle increasingly complex tasks in production environments.

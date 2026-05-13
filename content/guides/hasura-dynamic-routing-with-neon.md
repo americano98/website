@@ -4,7 +4,7 @@ subtitle: Leverage Neon's branching with Hasura's dynamic routing for powerful d
 author: dhanush-reddy
 enableTableOfContents: true
 createdAt: '2025-04-20T00:00:00.000Z'
-updatedOn: '2025-04-20T00:00:00.000Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 Managing different database environments for development, testing, staging, and production can be complex. Traditional methods often involve provisioning separate database instances, managing complex data synchronization scripts, or dealing with slow snapshot restores. Neon's serverless Postgres brings efficient, Git-like branching to your database, while Hasura provides an instant GraphQL API layer.

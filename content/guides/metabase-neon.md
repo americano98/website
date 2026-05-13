@@ -4,7 +4,7 @@ subtitle: Learn how to connect Metabase to your Neon Postgres database for inter
 author: dhanush-reddy
 enableTableOfContents: true
 createdAt: '2026-01-25T00:00:00.000Z'
-updatedOn: '2026-01-25T00:00:00.000Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 [Metabase](https://www.metabase.com/) is an open-source business intelligence and data visualization platform that makes it easy to turn your data into insights. By connecting Metabase to your Neon Postgres database, you can build interactive dashboards, explore your data, and share findings with your team without writing SQL.

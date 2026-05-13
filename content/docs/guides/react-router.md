@@ -6,7 +6,7 @@ summary: >-
   project, including project creation, dependency installation, and
   configuration of the Postgres client using a server-side `loader` function.
 enableTableOfContents: true
-updatedOn: '2026-02-06T22:07:33.036Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 [React Router](https://reactrouter.com/home) is a powerful routing library for React that also includes modern, full-stack framework features. This guide explains how to connect a React Router application to Neon using a server-side `loader` function.
@@ -181,15 +181,5 @@ PostgreSQL 17.5 (6bc9ef8) on aarch64-unknown-linux-gnu, compiled by gcc (Debian 
 ```
 
 </Steps>
-
-## Source code
-
-You can find the source code for the application described in this guide on GitHub.
-
-<DetailIconCards>
-
-<a href="https://github.com/neondatabase/examples/tree/main/with-react-router" description="Get started with React Router and Neon" icon="github">Get started with React Router and Neon</a>
-
-</DetailIconCards>
 
 <NeedHelp/>

@@ -10,7 +10,7 @@ enableTableOfContents: true
 redirectFrom:
   - /docs/quickstart/rust
   - /docs/integrations/rust
-updatedOn: '2026-02-15T20:51:54.194Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 <CopyPrompt src="/prompts/rust-prompt.md" 
@@ -665,18 +665,6 @@ ID: 4, Title: Dune, Author: Frank Herbert, Year: 1965, In Stock: true
 > You can see that the book '1984' has been successfully deleted from the `books` table.
 
 </Steps>
-
-## Source code
-
-You can find the source code for the applications described in this guide on GitHub.
-
-<DetailIconCards>
-
-<a href="https://github.com/neondatabase/examples/tree/main/with-rust-postgres" description="Get started with Rust and Neon using the synchronous postgres crate" icon="github">Get started with Rust and Neon using postgres</a>
-
-<a href="https://github.com/neondatabase/examples/tree/main/with-rust-tokio-postgres" description="Get started with Rust and Neon using the asynchronous tokio-postgres crate" icon="github">Get started with Rust and Neon using tokio-postgres</a>
-
-</DetailIconCards>
 
 ## Resources
 

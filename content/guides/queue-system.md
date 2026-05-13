@@ -4,7 +4,7 @@ subtitle: A step-by-step guide describing how to structure a tasks table for use
 author: vkarpov15
 enableTableOfContents: true
 createdAt: '2025-01-10T17:48:36.612Z'
-updatedOn: '2025-01-10T17:48:36.612Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 The `SKIP LOCKED` clause allows concurrent transactions to skip rows currently locked by other transactions.

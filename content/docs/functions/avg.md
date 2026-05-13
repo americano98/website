@@ -6,7 +6,7 @@ summary: >-
   mean of numeric values, including examples for analyzing datasets like
   temperature readings across different cities.
 enableTableOfContents: true
-updatedOn: '2026-02-06T22:07:32.855Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 The Postgres `avg()` function calculates the arithmetic mean of a set of numeric values.

@@ -6,7 +6,7 @@ summary: >-
   including how to obtain connection strings and use the Neon VS Code
   extension for enhanced development.
 enableTableOfContents: true
-updatedOn: '2026-02-06T22:07:32.786Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 <InfoBlock>

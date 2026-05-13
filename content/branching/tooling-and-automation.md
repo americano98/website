@@ -1,7 +1,7 @@
 ---
 title: 'Blog posts, docs, guides, and more'
 subtitle: 'A collection of tools and resources to implement branching workflows, snapshot-based promotion, automation via APIs, and integrations with GitHub, Vercel, and agents'
-updatedOn: '2026-01-22T00:00:00.000Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 ## Conceptual blog posts

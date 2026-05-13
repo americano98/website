@@ -9,7 +9,7 @@ summary: >-
 enableTableOfContents: true
 redirectFrom:
   - /docs/postgres/query-reference
-updatedOn: '2026-02-06T22:07:33.128Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 <CTA />

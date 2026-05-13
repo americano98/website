@@ -7,7 +7,7 @@ summary: >-
 enableTableOfContents: true
 redirectFrom:
   - /docs/extensions/extensions-intro
-updatedOn: '2026-03-19T19:40:30.841Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 Browse supported Postgres extensions by category.

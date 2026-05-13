@@ -4,7 +4,7 @@ subtitle: Send Neon metrics and Postgres logs to Better Stack using the OpenTele
 author: dhanush-reddy
 enableTableOfContents: true
 createdAt: '2025-08-13T00:00:00.000Z'
-updatedOn: '2025-08-13T00:00:00.000Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 [Better Stack](https://betterstack.com/) is an observability platform that unifies logging, monitoring, and alerting into a single dashboard. [Neon's OpenTelemetry (OTEL) integration](/docs/guides/opentelemetry) allows you to send your project's metrics and Postgres logs directly to Better Stack, giving you a centralized view of your database's performance and activity.

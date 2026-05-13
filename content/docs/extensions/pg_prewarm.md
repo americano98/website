@@ -6,7 +6,7 @@ summary: >-
   the Postgres buffer cache, enhancing query response times after a database
   restart.
 enableTableOfContents: true
-updatedOn: '2026-02-06T22:07:32.837Z'
+updatedOn: '2026-05-13T04:42:02.927Z'
 ---
 
 You can use the `pg_prewarm` extension to preload data into the Postgres buffer cache after a restart. Doing so improves query response times by ensuring that your data is readily available in memory. Otherwise, data must be loaded into the buffer cache from disk on-demand, which can result in slower query response times.
